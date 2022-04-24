@@ -3,20 +3,19 @@ function primeNumbers(x, y) {
 
     for (let j=x; j<=y; j++) {
         for(let i=2;i < j/2 ; i++) {
-            console.log("here");
             if(j==1) {
                 console.log(i);
                 break;
             }
-            if(n % i ==0) {
-                isPrime = false
-                // break;
+            if(j % i ==0) {
+                isPrime = false;
+                break;
             } else {
                 isPrime =true;
             }
         }
         if(isPrime) {
-            console.log("prime -> ",  n);
+            console.log("prime -> ",  j);
         }
     }
 
@@ -24,4 +23,4 @@ function primeNumbers(x, y) {
 
 }
 
-primeNumbers(x, y);
+primeNumbers(1, 20);
