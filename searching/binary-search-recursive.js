@@ -1,5 +1,5 @@
 
-let ar = [ 2, 3, 4, 10, 40 ];
+let ar = [2, 3, 4, 5,9,10, 40];
 let x = 10;
 let l = 0;
 let r = ar.length - 1;
