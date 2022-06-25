@@ -6,7 +6,7 @@
 6 -> palindrome
 7 -> prime number
 8 -> recursive sum
-9 -> secind largest number from array
+9 -> second largest number from array
 10 -> sum of nums
 11 -> longest palindrome
 12 -> first and last in sorted array
