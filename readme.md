@@ -12,8 +12,8 @@
 12 -> first and last in sorted array
 13 -> reverse words
 14 -> move zeroes to end in array
-15 ->
-16 ->
+15 -> maximum subarray
+16 -> paranthesis balancing
 17 ->
 18 ->
 19 ->
